@@ -22,5 +22,5 @@ DASH.start({
     uri: "https://localhost:3000/"
 })
 ```
-# this will automaticly clone it for you it can be found at [npm](https://npm/)
+# this will automaticly clone it for you it can be found at [npm](https://www.npmjs.com/package/aoi.panel)
 
